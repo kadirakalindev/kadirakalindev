@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirakalindev&label=Profile%20views&color=0e75b6&style=flat" alt="kadirakalindev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadirakalindev" alt="kadirakalindev" /></a> </p>
-
 - 🌱 I’m currently learning **.Net Core, SQL, Javascript, SASS, React**
 
 - 📫 How to reach me **kadirakalindev@gmail.com**
